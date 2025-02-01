@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "voyager-voting-clusters",
+  "private_key_id": "4f58cd67ebbb6bddd139eaa229f7649b81ff4a49",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMWrghTOgDfXaw\nI4Gq1Boia/jqorRkPlQc3oTGpT562W952WnewPw7KBTCx5EzdAJlK1I6Jg9ZHWRe\nRjisntSh2+NZugNUzs8++P2e5x/S7lxqAtTIOVg8+2Whd8zovqaLyEOwR1U5lve3\nAxnJApT24bMbkgUiNCHYSeR99259HJKhaoGB4c4P3sSlgvq0/K7cPPWiFCJiFIN5\n+RMimN0/tsa/8B7RcMSPe0PNozJHzxLxBoxusaNOTOmxTeQg1pW10KP3PNUSCGcp\nGGsrDdKrp1dL+xHfP0xk5pR71Lq5G5EaWxdzXkZ2sfMjwUSjOptrG4friwDBak+e\nvieKfBIPAgMBAAECggEAEpZZ0yWUoOSjjAfevnQGYIUjoevkro2AxxNyTkMveKsY\nWaPt3kX9a0ANC15tlZmCskMLeqCFmtxyiaSneQQFYSeH+VxS+z7IWPj60J5DJcNq\ngnX5drDIltti9hnYeH8G1QYFKh6C4PcbVvkgOklS1VXYHbTdZKwLPAoUj2SXFyf9\njWi2tCHADa8RUV3ohtQwH9frDsT+Rx6qBRavPelof5GcEnnLNLfoqCTDHfhuI/iM\nwlaiFmyBzPrhwuiHjiFfKaro0VaZBnss/s3506ZL6RP/Zdxx0k50IACck5u7DLGe\nXM2I/JSp4ew5GKnUhfwQutVx+gv3XafItZTi0X0uYQKBgQDoIKvc6LGJSJwU+NI5\n8rL58b/R1Eu/2Y3kzxjwG3LIrvj7pAZ5p9qDR5DVxzY8L2rUfhrGPg/2VdaiNrkK\nMr1kAYQCmhLRM3BoVE71OsF0YtkpU3SNJe+gsu7Jh4RcUI6NjtTaDMU00K7UM3dv\nFNN8qkwUUChHY60CVvwztRDdXwKBgQDhXtlZtSB05ugHDPcaT+96xBfruuJodHj/\n/kn76++mfwsGf9p0vZLCoaeNTRdHltZc0P+YyzYAOLj8NC5G2vKdwRgWNXbfXLeK\nRvArs5FQsoq79KrHQfP2fLn4CbsPlah/KvyQifUU+RuZYcwfsE4CU85t1MOBmIad\nvrwjOtBZUQKBgHTv2IRt+Nn26SIrgwRMPltprL9Q2mQofbHRnnd+7GEqvCVQqS5q\nH8tYpx76v1isbn3jlStfIn1vGrQXKzp2+y/BD7ab1XTsG+mC50/krIYsMcf+0c01\nWjUzTtXZXhV/Q4EOfi3mlwYXRquBzd34uN2pkK/+/XuRPBvcpCqMQZWzAoGADLd/\naDJyPGZzHUK8Br4P80txVhnbgK1hzoAYyKBNi4WLp7g7KW8xAs6AV9bLw3xdaCta\n4NJGn8iTl5eSLOlZ21Dz/PzTUlM3ABR0pOKjBnysm2J46HluPLBZBgf2iDCXq2VP\njxBZxe8wgX0lOXyHSlZURZpF1eA3aFtE3nAJJaECgYEAiGmkLZLBZf10tiw/TGrb\nLyVXnpspkmMVCbndDU0WCAGTKWUsuI4n4i7OUwGKNKYPJ7Q/Uni1UypyvIRsSjWV\nPbZhqIBDZ54mnyayVmyF3W4pfid5R1JngJ6ziF+Ye6PXEm5Xc77RvWID7wT7YMLG\nNGhrrmk/FEZ8KZg525qTT14=\n-----END PRIVATE KEY-----\n",
+  "client_email": "voyager-voting-clusters@voyager-voting-clusters.iam.gserviceaccount.com",
+  "client_id": "105185141239161365852",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voyager-voting-clusters%40voyager-voting-clusters.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
